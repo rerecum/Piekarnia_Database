@@ -1,0 +1,12 @@
+C:\Users\kacpe\source\repos\Piekarnia_Database\Piekarnia_Database\bin\Debug\Database1.mdf
+C:\Users\kacpe\source\repos\Piekarnia_Database\Piekarnia_Database\bin\Debug\Database1_log.ldf
+C:\Users\kacpe\source\repos\Piekarnia_Database\Piekarnia_Database\bin\Debug\Piekarnia_Database.exe.config
+C:\Users\kacpe\source\repos\Piekarnia_Database\Piekarnia_Database\bin\Debug\Piekarnia_Database.exe
+C:\Users\kacpe\source\repos\Piekarnia_Database\Piekarnia_Database\bin\Debug\Piekarnia_Database.pdb
+C:\Users\kacpe\source\repos\Piekarnia_Database\Piekarnia_Database\obj\Debug\Piekarnia_Database.csproj.AssemblyReference.cache
+C:\Users\kacpe\source\repos\Piekarnia_Database\Piekarnia_Database\obj\Debug\Piekarnia_Database.Form1.resources
+C:\Users\kacpe\source\repos\Piekarnia_Database\Piekarnia_Database\obj\Debug\Piekarnia_Database.Properties.Resources.resources
+C:\Users\kacpe\source\repos\Piekarnia_Database\Piekarnia_Database\obj\Debug\Piekarnia_Database.csproj.GenerateResource.cache
+C:\Users\kacpe\source\repos\Piekarnia_Database\Piekarnia_Database\obj\Debug\Piekarnia_Database.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\Piekarnia_Database\Piekarnia_Database\obj\Debug\Piekarnia_Database.exe
+C:\Users\kacpe\source\repos\Piekarnia_Database\Piekarnia_Database\obj\Debug\Piekarnia_Database.pdb
